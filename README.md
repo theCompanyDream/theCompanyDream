@@ -1,7 +1,8 @@
 # Herro there 🐱
-Hi I'm Tim
-I love coding in Python, Javascript, and anything C#. 
-If you're hiring please ask me about the repo that my [website](https://tbrantleyii.me) is built on.
+Hey, I'm Tim
+- I love coding in Python, Javascript, and anything C#. 
+- If you're hiring or looking for more infor visit my [website](https://tbrantleyii.me) is built in Gatsby.
+- Ask me anything [here](mailTo: tbrantleyii@gmail.com)
 
 ### Other Links 
 
