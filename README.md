@@ -1,7 +1,7 @@
-# Herro there 🐱
+# Herro there 🐱, I'm Tim
 
-<a href="https://gitlab.com/theCompanyDream"> 
-    <img width="50px" align="left" src="https://raw.githubusercontent.com/theCompanyDream/theCompanyDream/master/imgs/gitlab.png" />
+<a href="https://twitter.com/thecompanydream?lang=en"> 
+    <img width="50px" align="left" src="https://raw.githubusercontent.com/theCompanyDream/theCompanyDream/master/imgs/twitter.png" />
 </a>
 
 <a href="https://gitlab.com/theCompanyDream"> 
