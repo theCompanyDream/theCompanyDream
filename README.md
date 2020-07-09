@@ -1,8 +1,9 @@
 # Herro there 🐱
+
 Hey, I'm Tim
 
 <a href="https://twitter.com/thecompanydream"> 
-    <img width="50px" src="https://raw.githubusercontent.com/theCompanyDream/theCompanyDream/master/imgs/twitter.png" />
+    <img width="40px" src="https://raw.githubusercontent.com/theCompanyDream/theCompanyDream/master/imgs/twitter.png" />
 </a>
 
 <a href="https://gitlab.com/theCompanyDream"> 
@@ -10,15 +11,15 @@ Hey, I'm Tim
 </a>
 
 <a href="https://raw.githubusercontent.com/theCompanyDream/theCompanyDream/master/imgs/kaggle.svg"> 
-    <img width="50px" src="https://raw.githubusercontent.com/theCompanyDream/theCompanyDream/master/imgs/kaggle.svg" />
+    <img width="40px" src="https://raw.githubusercontent.com/theCompanyDream/theCompanyDream/master/imgs/kaggle.svg" />
 </a>
 
 <a href="https://www.linkedin.com/in/timothy-brantley-ii-22263228/"> 
-    <img width="50px" src="https://raw.githubusercontent.com/theCompanyDream/theCompanyDream/master/imgs/linkedinn.png" />
+    <img width="40px" src="https://raw.githubusercontent.com/theCompanyDream/theCompanyDream/master/imgs/linkedinn.png" />
 </a>
 
 <a href="https://www.instagram.com/oxking8080/"> 
-    <img width="50px" src="https://raw.githubusercontent.com/theCompanyDream/theCompanyDream/master/imgs/instagram.png" />
+    <img width="40px" src="https://raw.githubusercontent.com/theCompanyDream/theCompanyDream/master/imgs/instagram.png" />
 </a>
 
 - I love coding in Python, Javascript, and anything C#
