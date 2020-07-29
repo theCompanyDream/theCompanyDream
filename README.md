@@ -1,14 +1,15 @@
 # Hey there 👋🏾, I'm Tim
 
-I'm a Full stack developer by trade but my hobbies include anything from designing hitboxes, to fixing my car, and just owning at gaming. My goal is to build a game in the future but first I need to construct some websites. My goals for the next few years is to inspire people of all different ages to get into tech, in order to seek finacial indpendence.
+I'm a Full stack developer by trade but my hobbies include anything from designing electrical components, to fixing my car, and just owning at gaming. My goals for the next few years is to inspire people of all different ages to get into tech, in order to seek finacial indpendence.
 
 - I code in Python, Javascript, Java/Kotlin/Scala, Golang, Ruby, and anything C#
-- If you're hiring visit my [linkedInn](https://www.linkedin.com/in/timothy-brantley-ii-22263228/), or looking for more info visit [tbrantleyii.me](https://tbrantleyii.me) is built in Gatsby.
+- If you're hiring visit my [linkedInn](https://www.linkedin.com/in/timothy-brantley-ii-22263228/), see [tbrantleyii.me](https://tbrantleyii.me) for more info.
 - Ask me anything [here](https://github.com/theCompanyDream/theCompanyDream/issues)
-- Avid gamer mainly playing Fighting games and first person shooters.
+- Avid gamer playing Fighting games and first person shooters.
 
 ## Follow Me At
 
+<br />
 <a href="https://gitlab.com/theCompanyDream"> 
     <img width="50px" align="left" src="https://raw.githubusercontent.com/theCompanyDream/theCompanyDream/master/imgs/gitlab.png" />
 </a>
