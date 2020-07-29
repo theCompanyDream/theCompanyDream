@@ -17,14 +17,14 @@ I'm a Full stack developer by trade but my hobbies include anything from designi
     <img width="50px" align="left" src="https://raw.githubusercontent.com/theCompanyDream/theCompanyDream/master/imgs/twitter.png" />
 </a>
 
-<a href="https://www.linkedin.com/in/timothy-brantley-ii-22263228/"> 
-    <img width="40px" align="left" src="https://raw.githubusercontent.com/theCompanyDream/theCompanyDream/master/imgs/linkedinn.png" />
-</a>
-
 <a href="https://www.instagram.com/oxking8080/"> 
     <img width="40px" align="left" src="https://raw.githubusercontent.com/theCompanyDream/theCompanyDream/master/imgs/instagram.png" />
 </a>
 
-<a href="https://raw.githubusercontent.com/theCompanyDream/theCompanyDream/master/imgs/kaggle.svg"> 
+<a href="https://raw.githubusercontent.com/theCompanyDream/theCompanyDream/master/imgs/kaggle.svg">
     <img width="40px" align="left" src="https://raw.githubusercontent.com/theCompanyDream/theCompanyDream/master/imgs/kaggle.svg" />
+</a>
+
+<a href="https://www.linkedin.com/in/timothy-brantley-ii-22263228/"> 
+    <img width="40px" align="left" src="https://raw.githubusercontent.com/theCompanyDream/theCompanyDream/master/imgs/linkedinn.png" />
 </a>
