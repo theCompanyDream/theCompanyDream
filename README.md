@@ -11,7 +11,7 @@ I'm a Full stack developer by trade but my hobbies include anything from designi
 
 <br />
 <a href="https://gitlab.com/theCompanyDream"> 
-    <img width="50px" align="left" src="https://raw.githubusercontent.com/theCompanyDream/theCompanyDream/master/imgs/gitlab.png" />
+    <img width="60px" align="left" src="https://raw.githubusercontent.com/theCompanyDream/theCompanyDream/master/imgs/gitlab.png" />
 </a>
 
 <a href="https://www.linkedin.com/in/timothy-brantley-ii-22263228/"> 
