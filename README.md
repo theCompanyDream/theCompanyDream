@@ -15,7 +15,7 @@ I'm a Full stack developer by trade but my hobbies include anything from designi
 </a>
 
 <a href="https://twitter.com/thecompanydream"> 
-    <img width="50px" align="left" src="https://raw.githubusercontent.com/theCompanyDream/theCompanyDream/master/imgs/twitter.png" />
+    <img width="50px" align="left" src="https://raw.githubusercontent.com/theCompanyDream/theCompanyDream/master/imgs/twitter2.png" />
 </a>
 
 <a href="https://www.instagram.com/oxking8080/"> 
