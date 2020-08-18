@@ -14,18 +14,18 @@ I'm a Full stack developer by trade but my hobbies include anything from designi
     <img width="50px" align="left" src="https://raw.githubusercontent.com/theCompanyDream/theCompanyDream/master/imgs/gitlab.png" />
 </a>
 
+<a href="https://www.linkedin.com/in/timothy-brantley-ii-22263228/"> 
+    <img width="50px" align="left" src="https://raw.githubusercontent.com/theCompanyDream/theCompanyDream/master/imgs/linkedinn.png" />
+</a>
+
 <a href="https://twitter.com/thecompanydream"> 
     <img width="50px" align="left" src="https://raw.githubusercontent.com/theCompanyDream/theCompanyDream/master/imgs/twitter2.png" />
 </a>
 
 <a href="https://www.instagram.com/oxking8080/"> 
-    <img width="40px" align="left" src="https://raw.githubusercontent.com/theCompanyDream/theCompanyDream/master/imgs/instagram.png" />
+    <img width="50px" align="left" src="https://raw.githubusercontent.com/theCompanyDream/theCompanyDream/master/imgs/instagram.png" />
 </a>
 
 <a href="https://raw.githubusercontent.com/theCompanyDream/theCompanyDream/master/imgs/kaggle.svg">
-    <img width="40px" align="left" src="https://raw.githubusercontent.com/theCompanyDream/theCompanyDream/master/imgs/kaggle.svg" />
-</a>
-
-<a href="https://www.linkedin.com/in/timothy-brantley-ii-22263228/"> 
-    <img width="40px" align="left" src="https://raw.githubusercontent.com/theCompanyDream/theCompanyDream/master/imgs/linkedinn.png" />
+    <img width="50px" align="left" src="https://raw.githubusercontent.com/theCompanyDream/theCompanyDream/master/imgs/kaggle.svg" />
 </a>
