@@ -4,7 +4,7 @@ I'm a Full stack developer by trade but my hobbies include anything from designi
 
 - I code in Python, Javascript, Java/Kotlin/Scala, Golang, C#, and anything .Net.
 - If you're hiring visit my [linkedInn](https://www.linkedin.com/in/timothy-brantley-ii-22263228/), see [tbrantleyii.me](https://tbrantleyii.me) for more info.
-- Avid gamer playing Fighting games and first person shooters.
+- Avid gamer playing Fighting games, RTS, MOBA, and first person shooters.
 - Ask me anything [here](https://github.com/theCompanyDream/theCompanyDream/issues)
 
 ## Follow Me At
