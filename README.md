@@ -1,5 +1,7 @@
 # Hey there 👋🏾, I'm Tim
 
+<img src="https://raw.githubusercontent.com/theCompanyDream/theCompanyDream/master/imgs/banner.jpg" />
+
 I'm a Full stack developer by trade but my hobbies include anything from designing electrical components, to fixing my car, and just owning at gaming. My goals for the next few years is to inspire people of all different ages to get into tech, in order to seek finacial indpendence.
 
 - I code in Python, Javascript, Java/Kotlin/Scala, Golang, C#, and anything .Net.
