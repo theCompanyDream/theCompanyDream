@@ -1,6 +1,6 @@
 # Hey there 👋🏾,
 
-<img height="400" width="900" src="https://raw.githubusercontent.com/theCompanyDream/theCompanyDream/master/imgs/banner2.jpg" />
+<img height="250" width="750" src="https://raw.githubusercontent.com/theCompanyDream/theCompanyDream/master/imgs/banner2.jpg" />
 
 I'm a Full stack developer by trade but my hobbies include anything from designing electrical components, to fixing my car, and just owning at gaming. My goals for the next few years is to inspire people of all different ages to get into tech, in order to seek finacial indpendence.
 
