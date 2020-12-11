@@ -1,4 +1,4 @@
-# Hey there 👋🏾,
+# Hey there 👋🏾
 
 <img height="323" width="600" src="https://raw.githubusercontent.com/theCompanyDream/theCompanyDream/master/imgs/banner2.jpg" />
 
