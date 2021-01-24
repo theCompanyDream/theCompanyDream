@@ -1,4 +1,4 @@
-<div float="left">
+<p float="left">
     <img alt="Docker" src="https://img.shields.io/badge/docker%20-%230db7ed.svg?&style=for-the-badge&logo=docker&logoColor=white" />
 
     <img alt="React" src="https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB" />
@@ -16,7 +16,7 @@
     <img alt="Go" src="https://img.shields.io/badge/go-%2300ADD8.svg?&style=for-the-badge&logo=go&logoColor=white"/>
 
     <img alt="C++" src="https://img.shields.io/badge/c++%20-%2300599C.svg?&style=for-the-badge&logo=c%2B%2B&ogoColor=white"/>
-</div>
+</p>
 
 <img alt="One Piece Dreams Never Die" height="323" width="705" src="https://raw.githubusercontent.com/theCompanyDream/theCompanyDream/master/imgs/banner2.jpg" />
 
