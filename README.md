@@ -28,7 +28,7 @@ Developer and tinkerer at heart who loves solving difficult problems. I'm curren
 
 We move swiftly and with purposefully.
 
-# Q4 Goals
+# Q2 Goals
 
 - 🌟 50 Followers
 - 🎯 1000 commits projects
