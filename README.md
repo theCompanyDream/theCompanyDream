@@ -32,7 +32,7 @@ We move swiftly and with purposefully.
 
 - 🌟 50 Followers
 - 🎯 1000 commits projects
-- 🚀 launch v3 of https://tbrantleyii.me
+- 🚀 launch v3 of https://tbrantleyii.me check https://stage.tbrantleyii.me for updates
 - 📼 stream 3 times a week
 - 📖 brush up on some studies
 
