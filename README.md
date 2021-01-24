@@ -1,5 +1,6 @@
 <span>
-    <img style="float: left;" alt="Docker" src="https://img.shields.io/badge/docker%20-%230db7ed.svg?&style=for-the-badge&logo=docker&logoColor=white"/>
+
+<img style="float: left;" alt="Docker" src="https://img.shields.io/badge/docker%20-%230db7ed.svg?&style=for-the-badge&logo=docker&logoColor=white"/>
 
 <img style="float: left;" alt="React" src="https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
 
@@ -16,15 +17,16 @@
 <img style="float: left;" alt="Go" src="https://img.shields.io/badge/go-%2300ADD8.svg?&style=for-the-badge&logo=go&logoColor=white"/>
 
 <img style="float: left;" alt="C++" src="https://img.shields.io/badge/c++%20-%2300599C.svg?&style=for-the-badge&logo=c%2B%2B&ogoColor=white"/>
+    
 </span>
 
 <img alt="One Piece Dreams Never Die" height="323" width="705" src="https://raw.githubusercontent.com/theCompanyDream/theCompanyDream/master/imgs/banner2.jpg" />
 
 # Welcome
 
-Developer and tinkerer at heart who loves solving difficult problems. I'm currently revisitting some old school subjects in a journey of self embetterment. My
+Developer and tinkerer at heart who loves solving difficult problems. I'm currently revisitting old subjects in journey of self embetterment. You can find me watching anime or getting third partied in Apex Legends. Coding is my job but it's also my life style there are rarely times that I don't have a coding project I'm working on. To me engineering gives me purpose and life and I hope to continue doing this well into my retirement age.
 
-We move swiftly and with purposeful strokes.
+We move swiftly and with purposefully.
 
 # Q4 Goals
 
@@ -35,6 +37,7 @@ We move swiftly and with purposeful strokes.
 - 📖 brush up on some studies
 
 <details>
+<summary>Social Media</summary>
 <a href="https://gitlab.com/theCompanyDream"> 
     <img width="60px" align="left" src="https://raw.githubusercontent.com/theCompanyDream/theCompanyDream/master/imgs/gitlab.png" />
 </a>
