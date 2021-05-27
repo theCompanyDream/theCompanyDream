@@ -26,14 +26,14 @@
 
 Developer and tinkerer at heart who loves solving difficult problems. I'm currently revisitting old subjects in journey of self embetterment. You can find me watching anime or getting third partied in Apex Legends. Coding is my job but it's also my life style there are rarely times that I don't have a coding project I'm working on. To me engineering gives me purpose and life and I hope to continue doing this well into my retirement age.
 
-We move swiftly and with purposefully.
+All my active repositiories are private because they're built for eccomerse purposes and do more than just being a portfolio website.
 
 # Q2 Goals
 
 - 🌟 50 Followers
 - 🎯 1000 commits projects
 - 🚀 launch v3 of https://tbrantleyii.me check https://stage.tbrantleyii.me for updates
-- 📼 stream 3 times a week
+- 📼 stream once a week
 - 📖 brush up on some studies
 
 <details>
