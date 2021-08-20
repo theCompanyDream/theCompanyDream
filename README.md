@@ -1,3 +1,5 @@
+# Welcome
+
 <span>
 
 <img style="float: left;" alt="Docker" src="https://img.shields.io/badge/docker%20-%230db7ed.svg?&style=for-the-badge&logo=docker&logoColor=white"/>
@@ -21,8 +23,6 @@
 </span>
 
 <img alt="One Piece Dreams Never Die" height="323" width="705" src="https://raw.githubusercontent.com/theCompanyDream/theCompanyDream/master/imgs/banner2.jpg" />
-
-# Welcome
 
 Developer and tinkerer at heart who loves solving difficult problems. I'm currently revisitting old subjects in journey of self embetterment. You can find me watching anime or getting third partied in Apex Legends. Coding is my job but it's also my life style there are rarely times that I don't have a coding project I'm working on. To me engineering gives me purpose and life and I hope to continue doing this well into my retirement age.
 
