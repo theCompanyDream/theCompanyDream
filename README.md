@@ -28,13 +28,12 @@ Developer and tinkerer at heart who loves solving difficult problems. I'm curren
 
 All my active repositiories are private because they're built for eccomerse purposes and do more than just being a portfolio website.
 
-# Q2 Goals
+# Q4 Goals
 
 - 🌟 50 Followers
 - 🎯 1000 commits projects
 - 🚀 launch v3 of https://tbrantleyii.me check https://stage.tbrantleyii.me for updates
 - 📼 stream once a week
-- 📖 brush up on some studies
 
 <details>
 <summary>Social Media</summary>
