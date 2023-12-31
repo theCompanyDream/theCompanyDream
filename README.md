@@ -22,16 +22,18 @@
 
 <img alt="One Piece Dreams Never Die" height="323" width="705" src="https://raw.githubusercontent.com/theCompanyDream/theCompanyDream/master/imgs/banner2.jpg" />
 
-Developer and tinkerer at heart who loves solving difficult problems. I'm currently revisitting old subjects in journey of self embetterment. You can find me watching anime or getting third partied in Apex Legends. Coding is my job but it's also my life style there are rarely times that I don't have a coding project I'm working on. To me engineering gives me purpose and life and I hope to continue doing this well into my retirement age.
+"Ahoy, fellow tech adventurers! 🏴‍☠️
 
-All my active repositiories are private because they're built for eccomerse purposes and do more than just being a portfolio website.
+Your friendly neighborhood coder with a passion for turning dreams into digital reality. With a keyboard as my trusty sword and a coffee mug as my compass, I sail through the vast seas of code, seeking treasures in the form of elegant solutions and innovative creations.
 
-# Q4 Goals
+Whether it's:
+ - slaying :bug:,
+ - crafting seamless user experiences,
+ - or hoisting the sails of efficiency,
 
-- 🌟 50 Followers
-- 🎯 1000 commits projects
-- 🚀 launch v3 of https://tbrantleyii.me check https://stage.tbrantleyii.me for updates
-- 📼 stream once a week
+
+# I'm all about making technology work for you
+
 
 <details>
 <summary>Social Media</summary>
