@@ -22,7 +22,7 @@
 
 <img alt="One Piece Dreams Never Die" height="323" width="705" src="https://raw.githubusercontent.com/theCompanyDream/theCompanyDream/master/imgs/banner2.jpg" />
 
-"Ahoy, fellow tech adventurers! 🏴‍☠️
+"Ahoy, fellow tech adventurers 🏴‍☠️!
 
 Your friendly neighborhood coder with a passion for turning dreams into digital reality. With a keyboard as my trusty sword and a coffee mug as my compass, I sail through the vast seas of code, seeking treasures in the form of elegant solutions and innovative creations.
 
