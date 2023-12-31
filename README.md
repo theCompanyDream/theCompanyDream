@@ -28,7 +28,7 @@ Your friendly neighborhood coder with a passion for turning dreams into digital 
 
 Whether it's:
  - slaying :bug:s
- - crafting seemingless 👱 experiences,
+ - crafting seemingless 👱 experiences
 
 hoisting the sails of efficiency
 
