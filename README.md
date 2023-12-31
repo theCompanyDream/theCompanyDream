@@ -27,13 +27,11 @@
 Your friendly neighborhood coder with a passion for turning dreams into digital reality. With a keyboard as my trusty sword and a coffee mug as my compass, I sail through the vast seas of code, seeking treasures in the form of elegant solutions and innovative creations.
 
 Whether it's:
- - slaying :bug:,
- - crafting seamless user experiences,
- - or hoisting the sails of efficiency,
-
+ - slaying :bug:s
+ - crafting 🪡 👱 experiences,
+-  hoisting the sails of efficiency
 
 # I'm all about making technology work for you
-
 
 <details>
 <summary>Social Media</summary>
