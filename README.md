@@ -22,7 +22,7 @@
 
 </span>
 
-<img alt="One Piece Dreams Never Die" height="323" width="705" src="https://raw.githubusercontent.com/theCompanyDream/theCompanyDream/master/imgs/banner2.jpg" />
+<img alt="One Piece Dreams Never Die" height="323" width="755" src="https://raw.githubusercontent.com/theCompanyDream/theCompanyDream/master/imgs/banner2.jpg" />
 
 "Ahoy, fellow tech adventurers 🏴‍☠️!
 
