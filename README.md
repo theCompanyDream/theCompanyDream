@@ -29,7 +29,8 @@ Your friendly neighborhood coder with a passion for turning dreams into digital 
 Whether it's:
  - slaying :bug:s
  - crafting seemingless 👱 experiences,
--  hoisting the sails of efficiency
+
+hoisting the sails of efficiency
 
 # I'm all about making technology work for you
 
