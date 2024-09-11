@@ -26,7 +26,7 @@
 
 Ahoy, fellow tech adventurers 🏴‍☠️,
 
-Your friendly neighborhood coder with a passion for turning dreams into digital reality. With a keyboard as my trusty sword and a coffee mug as my compass, I sail through the vast seas of code, seeking treasures in the form of elegant solutions and innovative creations.
+Your friendly neighborhood coder with a passion for turning dreams into digital reality. With a keyboard and a mug full of coffee, I will steer your products to sucess. While seeking treasures in the form of elegant solutions and innovative creations.
 
 Whether it's:
  - slaying :bug:s
