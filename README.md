@@ -22,4 +22,4 @@
 
 <img alt="One Piece Dreams Never Die" height="323" width="701" src="https://raw.githubusercontent.com/theCompanyDream/theCompanyDream/master/imgs/banner2.jpg" />
 
-How's it going? I'm just your average developer who likes sailing the seven seas. I love building things whether it's software, hardware, or music. I just love to create things that people like to use or enjoy. I hope to someday create stories that people of all ages can enjoy. I know a lot so just ask me whether it's on my [website](https://tbrantleyii.dev/schedule) or check me out on twitter. I'm always down to talk so don't be afraid to send a message in the DMs. ^_^
+I'm just your average developer who likes sailing the seven seas. I love building things whether it's software, hardware, or music. I just love to create things that people like to use or enjoy. I hope to someday create stories that people of all ages can enjoy. I know a lot so just ask me whether it's on my [website](https://tbrantleyii.dev/schedule) or check me out on twitter. I'm always down to talk so don't be afraid to send a message in the DMs. ^_^
