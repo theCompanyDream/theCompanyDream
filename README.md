@@ -10,7 +10,7 @@
 
 <img style="float: left;width:auto" alt="Go" src="https://img.shields.io/badge/go-%2300ADD8.svg?&style=for-the-badge&logo=go&logoColor=white"/>
 
-<img style="float:left;width:auto" alt="Node.js" src="https://img.shields.io/badge/Node.js-6DA55F?logo=node.js&logoColor=white" />
+<img alt="Node.js" src="https://img.shields.io/badge/Node.js-6DA55F?&style=for-the-badge&logo=node.js&logoColor=white" />
 
 <img style="float: left;width:auto" alt="React" src="https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
 
