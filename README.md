@@ -30,14 +30,7 @@ I'm just your average developer who likes sailing the seven seas. I love buildin
 ### 🛠️ Tools & Navigation
 <div align="center">
   <img alt="Docker" src="https://img.shields.io/badge/Docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white"/>
-  <img alt="Git" src="https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white"/>
   <img alt="VS Code" src="https://img.shields.io/badge/VS%20Code-0078d4.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
-</div>
-
-## 📊 Treasure Map (GitHub Stats)
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=theCompanyDream&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
 </div>
 
 ## 🎲 Fun Facts About This Pirate
@@ -46,3 +39,7 @@ I'm just your average developer who likes sailing the seven seas. I love buildin
 - 📖 Dream of creating stories that inspire all ages
 - 🌊 Always ready for adventure
 - ☕ Fueled by coffee and One Piece chapters
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=theCompanyDream&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+</div>
