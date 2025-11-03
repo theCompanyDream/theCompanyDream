@@ -1,25 +1,51 @@
-# What's Good
+# ⚓ What's Up ⚓
 
-<span style="display: flex; flex-wrap: wrap;">
+<div align="center">
+  <img alt="One Piece Dreams Never Die" width="100%" src="https://raw.githubusercontent.com/theCompanyDream/theCompanyDream/master/imgs/banner2.jpg" />
+</div>
 
-<img style="float: left;width:auto" alt="Docker" src="https://img.shields.io/badge/docker%20-%230db7ed.svg?&style=for-the-badge&logo=docker&logoColor=white"/>
-
-<img style="float: left;width:auto" alt="Python" src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white"/>
-
-<img style="float: left;width:auto" alt="C#" src="https://img.shields.io/badge/c%23%20-%23239120.svg?&style=for-the-badge&logo=c-sharp&logoColor=white"/>
-
-<img style="float: left;width:auto" alt="Go" src="https://img.shields.io/badge/go-%2300ADD8.svg?&style=for-the-badge&logo=go&logoColor=white"/>
-
-<img style="float: left;width:auto" alt="Java" src="https://img.shields.io/badge/Java-%23ED8B00.svg?logo=openjdk&logoColor=white&style=for-the-badge" />
-
-<img style="float: left;width:auto" alt="React" src="https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
-
-<img style="float: left;width:auto" alt="Vue.js" src="https://img.shields.io/badge/vuejs%20-%2335495e.svg?&style=for-the-badge&logo=vue.js&logoColor=%234FC08D"/>
-
-<img style="float: left;width:auto" alt="C++" src="https://img.shields.io/badge/c++%20-%2300599C.svg?&style=for-the-badge&logo=c%2B%2B&ogoColor=white"/>
-
-</span>
-
-<img alt="One Piece Dreams Never Die" height="323" width="701" src="https://raw.githubusercontent.com/theCompanyDream/theCompanyDream/master/imgs/banner2.jpg" />
+## 🧭 About This Captain
 
 I'm just your average developer who likes sailing the seven seas. I love building things whether it's software, hardware, or music. I just love to create things that people like to use or enjoy. I hope to someday create stories that people of all ages can enjoy. I know a lot so just ask me whether it's on my [website](https://tbrantleyii.dev/schedule) or check me out on twitter. I'm always down to talk so don't be afraid to send a message in the DMs. ^_^
+
+## ⚔️ Arsenal
+
+### 🗡️ Programming Languages
+<div align="center">
+  <img alt="Python" src="https://img.shields.io/badge/Python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white"/>
+  <img alt="C#" src="https://img.shields.io/badge/C%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white"/>
+  <img alt="Java" src="https://img.shields.io/badge/Java-%23ED8B00.svg?logo=openjdk&logoColor=white&style=for-the-badge"/>
+  <img alt="C++" src="https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
+  <img alt="Go" src="https://img.shields.io/badge/Go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white"/>
+  <img alt="Kotlin" src="https://img.shields.io/badge/Kotlin-%237F52FF.svg?logo=kotlin&logoColor=white&style=for-the-badge" />
+  <img alt="NodeJs" src="https://img.shields.io/badge/Node.js-6DA55F?logo=node.js&logoColor=white&style=for-the-badge" />
+</div>
+
+### 🌊 Frontend Tools
+<div align="center">
+  <img alt="React" src="https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
+  <img alt="Vue.js" src="https://img.shields.io/badge/Vue.js-%2335495e.svg?style=for-the-badge&logo=vue.js&logoColor=%234FC08D"/>
+  <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
+  <img alt="HTML5" src="https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img alt="CSS3" src="https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"/>
+</div>
+
+### 🛠️ Tools & Navigation
+<div align="center">
+  <img alt="Docker" src="https://img.shields.io/badge/Docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white"/>
+  <img alt="Git" src="https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white"/>
+  <img alt="VS Code" src="https://img.shields.io/badge/VS%20Code-0078d4.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
+</div>
+
+## 📊 Treasure Map (GitHub Stats)
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=theCompanyDream&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+</div>
+
+## 🎲 Fun Facts About This Pirate
+
+- 🎵 I compose music when I'm not coding
+- 📖 Dream of creating stories that inspire all ages
+- 🌊 Always ready for adventure
+- ☕ Fueled by coffee and One Piece chapters
