@@ -1,4 +1,4 @@
-# ⚓ What's Up ⚓
+# What's Up
 
 <div align="center">
   <img alt="One Piece Dreams Never Die" width="100%" src="https://raw.githubusercontent.com/theCompanyDream/theCompanyDream/master/imgs/banner2.jpg" />
