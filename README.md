@@ -8,7 +8,6 @@ I'm just your average developer who likes sailing the seven seas. I love buildin
 
 ## ⚔️ Arsenal
 
-### 🗡️ Programming Languages
 <div align="center">
   <img alt="Python" src="https://img.shields.io/badge/Python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white"/>
   <img alt="C#" src="https://img.shields.io/badge/C%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white"/>
@@ -19,7 +18,6 @@ I'm just your average developer who likes sailing the seven seas. I love buildin
   <img alt="NodeJs" src="https://img.shields.io/badge/Node.js-6DA55F?logo=node.js&logoColor=white&style=for-the-badge" />
 </div>
 
-### 🌊 Frontend Tools
 <div align="center">
   <img alt="React" src="https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
   <img alt="Vue.js" src="https://img.shields.io/badge/Vue.js-%2335495e.svg?style=for-the-badge&logo=vue.js&logoColor=%234FC08D"/>
@@ -27,7 +25,6 @@ I'm just your average developer who likes sailing the seven seas. I love buildin
   <img alt="CSS3" src="https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"/>
 </div>
 
-### 🛠️ Tools & Navigation
 <div align="center">
   <img alt="Docker" src="https://img.shields.io/badge/Docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white"/>
   <img alt="VS Code" src="https://img.shields.io/badge/VS%20Code-0078d4.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
