@@ -2,7 +2,7 @@
   <img alt="One Piece Dreams Never Die" width="100%" src="https://raw.githubusercontent.com/theCompanyDream/theCompanyDream/master/imgs/banner2.jpg" />
 </div>
 
-# What's Up
+## What's Up
 
 I'm just your average dreamer who loves building things whether it's software, hardware, or music. I have always been curious person and I plan to stay that way. Someday I hope to create stories that people of all ages can enjoy. I know a lot so just ask me whether it's on my [website](https://tbrantleyii.dev/schedule) or check me out on twitter. I'm always down to talk so don't be afraid to send a message in the DMs. ^_^
 
