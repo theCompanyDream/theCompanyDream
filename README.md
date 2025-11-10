@@ -23,14 +23,18 @@ I'm just your average dreamer who loves building things whether it's software, h
   <img alt="Vue.js" src="https://img.shields.io/badge/Vue.js-%2335495e.svg?style=for-the-badge&logo=vue.js&logoColor=%234FC08D"/>
   <img alt="HTML5" src="https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/>
   <img alt="CSS3" src="https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"/>
+  <img alt="Tailwind CSS" src="https://img.shields.io/badge/Tailwind_CSS-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
+  <img alt="Next.js" src="https://img.shields.io/badge/Next.js-%23000000.svg?style=for-the-badge&logo=next.js&logoColor=white"/>
+  <img alt="Nuxt.js" src="https://img.shields.io/badge/Nuxt.js-%23000000.svg?style=for-the-badge&logo=nuxtdotjs&logoColor=white"/>
 </div>
 
 <div align="center">
   <img alt="Docker" src="https://img.shields.io/badge/Docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white"/>
   <img alt="VS Code" src="https://img.shields.io/badge/VS%20Code-0078d4.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
+  <img alt="AWS" src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white" />
 </div>
 
-## 🎲 Fun Facts About This Pirate
+## 🎲 Fun Facts About Me
 
 - 🎵 I compose music when I'm not coding
 - 📖 Dream of creating stories that inspire all ages
