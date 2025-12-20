@@ -6,8 +6,6 @@
 
 I'm just your average dreamer who loves building things whether it's software, hardware, or music. I have always been curious person and I plan to stay that way. Someday I hope to create stories that people of all ages can enjoy. I know a lot so just ask me whether it's on my [website](https://tbrantleyii.dev/schedule) or check me out on twitter. I'm always down to talk so don't be afraid to send a message in the DMs. ^_^
 
-## ⚔️ Arsenal
-
 <div align="center">
   <img alt="NodeJs" src="https://img.shields.io/badge/Node.js-6DA55F?logo=node.js&logoColor=white&style=for-the-badge" />
   <img alt="Python" src="https://img.shields.io/badge/Python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white"/>
