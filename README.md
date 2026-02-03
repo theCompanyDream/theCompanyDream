@@ -40,7 +40,3 @@ I'm just your average dreamer who loves building things whether it's software, h
 - 📖 Dream of creating stories that inspire all ages
 - 🌊 Always ready for adventure
 - ☕ Fueled by coffee and One Piece chapters
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=theCompanyDream&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-</div>
