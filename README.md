@@ -44,5 +44,5 @@ I'm just your average dreamer who loves building things whether it's software, h
 ## Websites
 
 - [Novelscope](https://novelscope.org)
-- [keymetrics11](https://keymetrics11.app)
-- [games](https://games.tbrantleyii.dev)
+- [Keymetrics11](https://keymetrics11.app)
+- [Games](https://games.tbrantleyii.dev)
