@@ -40,3 +40,8 @@ I'm just your average dreamer who loves building things whether it's software, h
 - 📖 Dream of creating stories that inspire all ages
 - 🌊 Always ready for adventure
 - ☕ Fueled by coffee and One Piece chapters
+
+## Websites
+
+- [Novelscope](https://novelscope.org)
+- [keymetrics11](https://keymetrics11.app)
