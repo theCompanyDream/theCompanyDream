@@ -4,7 +4,7 @@
 
 ## What's Up
 
-I'm just your average dreamer who loves building things whether it's software, hardware, or music. I have always been curious person and I plan to stay that way. Someday I hope to create stories that people of all ages can enjoy. I know a lot so just ask me whether it's on my [website](https://tbrantleyii.dev/schedule) or check me out on twitter. I'm always down to talk so don't be afraid to send a message in the DMs. ^_^
+I'm just a dreamer who loves building things whether it's software, hardware, or music. I have always been curious person and I plan to stay that way. Someday I hope to create stories that people of all ages can enjoy. I know a lot so just ask me whether it's on my [website](https://tbrantleyii.dev/schedule) or check me out on twitter. I'm always down to talk so don't be afraid to send a message in the DMs. ^_^
 
 <div align="center">
   <img alt="NodeJs" src="https://img.shields.io/badge/Node.js-6DA55F?logo=node.js&logoColor=white&style=for-the-badge" />
@@ -36,10 +36,10 @@ I'm just your average dreamer who loves building things whether it's software, h
 
 ## 🎲 Fun Facts About Me
 
-- 🎵 I compose music when I'm not coding
+- 🎵 I compose music
 - 📖 Dream of creating stories that inspire all ages
 - 🌊 Always ready for adventure
-- ☕ Fueled by coffee and One Piece chapters
+- ☕ Fueled by coffee and One Piece
 
 ## Websites
 
